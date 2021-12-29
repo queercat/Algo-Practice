@@ -14,3 +14,6 @@ s_arr = [char for char in s]
 print(s_arr)
 urlify(s_arr)
 print(s_arr)
+
+# time: O(n)
+# space: O(1)

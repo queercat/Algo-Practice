@@ -14,4 +14,5 @@ def is_unique(s: str) -> bool:
 
     return True
 
-print(is_unique('abcdefghijklmnopqrstuvwxyz'))
+# run time O(n)
+# space O(n)
